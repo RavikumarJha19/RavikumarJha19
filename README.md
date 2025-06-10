@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ravikumar-jha-6a0a67181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravikumar-jha-6a0a67181" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ravi-jha-6a0a67181/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravikumar-jha-6a0a67181" height="30" width="40" /></a>
 <a href="https://instagram.com/instagram.com/its_frosty_2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/its_frosty_2.0" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/@frosty2.0?si=-0bups7ovmdrqrnd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@frosty2.0?si=-0bups7ovmdrqrnd" height="30" width="40" /></a>
 </p>
